@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+    <remote name="anlory" fetch="git://localhost/" />
+    <default remote="anlory" revision="master"/>
+    <project path="local_hello" name="helo"/>
+    <project path="/xxx/bbb" name="bbb"/>
+</manifest>
